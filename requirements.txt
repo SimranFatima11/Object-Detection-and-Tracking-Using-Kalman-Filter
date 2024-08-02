@@ -1,0 +1,6 @@
+pip install opencv-python
+pip install numpy
+pip install torch
+pip install ultralytics
+pip install torchvision
+pip install pillow
