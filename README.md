@@ -111,6 +111,10 @@ Show the processed frame with bounding boxes in a window.
 
 Exit the loop and close the window when 'q' is pressed.
 
+# Flowchart of the process 
+
+![flowchart](https://github.com/user-attachments/assets/92b8e830-2e9d-4360-a9d7-a4c243fe1fed)
+
 # Install Dependencies:
 ```
 pip install -r requirements.txt
